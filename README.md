@@ -1,5 +1,5 @@
 # Some-Engine
-Some Engine is a simple 2D engine made with C++ and OpenGL
+<p> Some Engine is a simple 2D engine made with C++ and OpenGL </p>
 
 
 choose betwwen these branches: <br>
