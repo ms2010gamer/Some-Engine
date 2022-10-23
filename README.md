@@ -4,7 +4,7 @@ Some Engine is a simple 2D engine made with C++ and OpenGL
 
 choose betwwen these branches:
 Visual Studio: 
-Linux/Mac: 
+Linux/Mac: https://github.com/ms2010gamer/Some-Engine/tree/Linux/Mac
 Mingw64: 
 
 WARNING: there is no 32-bit support for now.
