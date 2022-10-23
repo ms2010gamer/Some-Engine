@@ -6,6 +6,7 @@ choose betwwen these branches: <br>
 Visual Studio: https://github.com/ms2010gamer/Some-Engine/tree/Visual-Studio <br>
 Linux/Mac: https://github.com/ms2010gamer/Some-Engine/tree/Linux/Mac <br>
 Mingw64: https://github.com/ms2010gamer/Some-Engine/tree/Mingw64 <br>
+Source Code (Needs compiling): https://github.com/ms2010gamer/Some-Engine/tree/Source <br>
 
 <h2>
 WARNING: there is no 32-bit support for now. <br>
